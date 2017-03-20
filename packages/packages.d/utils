@@ -1,0 +1,43 @@
+description="""
+Basic utilities
+"""
+deps="""
+"""
+packages="""
+bash
+freedesktop-sound-theme
+fusefs-ntfs
+fusefs-ext4fuse
+fusefs-simple-mtpfs
+git
+grub2-pcbsd
+# this available only on amd64, not on i386 repo
+nano
+e2fsprogs
+ksh93
+portupgrade
+py27-gobject
+py27-webkitgtk
+py27-pexpect
+rsync
+sudo
+doas
+vim
+xorriso
+zsh
+cuse4bsd-kmod
+webcamd
+wmctrl
+xdg-user-dirs
+"""
+
+amd64 = """
+grub2-efi
+"""
+
+settings = """
+bash
+webcamd
+fusefs-ext4fuse
+fusefs-ntfs
+"""

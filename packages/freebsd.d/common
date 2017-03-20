@@ -1,0 +1,13 @@
+desc = """
+FreeBSD common settings
+"""
+
+packages = """
+freebsd-grub2-settings
+freebsd-installed-common-settings
+freebsd-live-common-settings
+fbi
+"""
+
+settings="""
+"""

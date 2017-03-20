@@ -1,0 +1,24 @@
+
+desc = """
+Mate desktop environment.
+"""
+
+deps = """
+xserver
+utils
+utils-x
+print
+internet
+sound-video
+office
+font
+gtk-common
+mate
+"""
+packages = """
+"""
+freebsd_deps="""
+mate
+common
+"""
+

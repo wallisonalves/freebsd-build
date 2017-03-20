@@ -1,0 +1,11 @@
+description="""
+	Minimal xorg packages
+"""
+deps="""
+"""
+packages="""
+xorg
+cursor-dmz-theme
+setxkbmap
+xrandr
+"""

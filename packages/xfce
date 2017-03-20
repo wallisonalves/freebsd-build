@@ -1,0 +1,24 @@
+
+desc = """
+Xfce desktop environment.
+"""
+
+deps = """
+xserver
+utils
+utils-x
+print
+internet
+sound-video
+office
+font
+gtk-common
+xfce
+"""
+packages = """
+"""
+freebsd_deps="""
+xfce
+common
+"""
+

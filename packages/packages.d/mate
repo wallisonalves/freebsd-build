@@ -1,0 +1,16 @@
+desc = """
+  FreeBSD Mate desktop environment
+"""
+
+packages = """
+cups-pk-helper
+dconf-editor
+gnome-keyring
+mate
+mate-screensaver
+plank
+slim
+"""
+
+settings="""
+"""

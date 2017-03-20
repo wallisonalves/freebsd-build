@@ -1,0 +1,10 @@
+desc = """
+FreeBSD xfce settings
+"""
+
+packages = """
+xfce-installed-settings
+"""
+
+settings="""
+"""

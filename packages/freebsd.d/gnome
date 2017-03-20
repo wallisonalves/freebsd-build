@@ -1,0 +1,10 @@
+desc = """
+FreeBSD gnome settings
+"""
+
+packages = """
+gnome-installed-settings
+"""
+
+settings="""
+"""

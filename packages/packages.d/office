@@ -1,0 +1,9 @@
+description="""
+Office suite
+"""
+deps="""
+"""
+packages="""
+libreoffice
+scribus
+"""

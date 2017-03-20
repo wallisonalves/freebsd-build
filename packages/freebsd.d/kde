@@ -1,0 +1,10 @@
+desc = """
+FreeBSD KDE settings
+"""
+
+packages = """
+kde-installed-settings
+"""
+
+settings = """
+"""

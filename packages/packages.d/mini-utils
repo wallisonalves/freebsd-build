@@ -1,0 +1,22 @@
+description="""
+Basic utilities
+"""
+deps="""
+"""
+packages="""
+freedesktop-sound-theme
+grub2-pcbsd
+
+portupgrade
+py27-gobject
+py27-gobject3
+py27-webkitgtk
+py27-pexpect
+rsync
+sudo
+wmctrl
+"""
+
+amd64 = """
+grub2-efi
+"""

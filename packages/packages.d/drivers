@@ -1,0 +1,11 @@
+desc = """
+	drivers
+"""
+packages="""
+bwi-firmware-kmod
+bwn-firmware-kmod
+gstreamer-plugins-pulse
+gstreamer1-plugins-pulse
+nvidia-driver
+nvidia-xconfig
+"""

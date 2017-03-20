@@ -1,0 +1,23 @@
+desc = """
+    FreeBSD Cinnamon dektop
+"""
+packages = """
+    cinnamon
+    dconf-editor
+    desktop-file-utils
+    eog
+    evince
+    gconf2
+    gdm
+    glib-networking
+    gnome-keyring
+    gnome-menus
+    gnome-terminal
+    guake
+    firefox
+    gnome-calculator
+    medit
+    muffin
+    nemo
+    shared-mime-info
+"""

@@ -1,0 +1,10 @@
+desc = """
+FreeBSD mate settings
+"""
+
+packages = """
+mate-installed-settings
+"""
+
+settings="""
+"""

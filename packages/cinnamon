@@ -1,0 +1,24 @@
+
+desc = """
+Cinnamon desktop environment.
+"""
+
+deps = """
+xserver
+utils
+utils-x
+print
+internet
+sound-video
+office
+font
+gtk-common
+cinnamon
+"""
+packages = """
+"""
+freebsd_deps="""
+cinnamon
+common
+"""
+

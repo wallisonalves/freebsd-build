@@ -1,0 +1,10 @@
+desc = """
+FreeBSD cinnamon settings
+"""
+
+packages = """
+cinnamon-installed-settings
+"""
+
+settings="""
+"""

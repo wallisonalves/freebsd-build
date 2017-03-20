@@ -1,0 +1,30 @@
+desc = """
+Qt based packages
+"""
+
+packages = """
+# from/for multimedia
+k3b
+amarok
+kaudiocreator
+ktorrent
+skanlite
+kdeconnect-kde
+# Localized messages and documentation for KDE SC 4
+kde-l10n
+# office
+calligra
+# for from developers
+kiconedit
+qt4
+kdevelop
+kdevplatform
+kdiff3
+krusader
+kcoloredit
+konversation
+# GTK configurator for KDE
+kde-gtk-config
+# for accessing scanner
+ksaneplugin
+"""

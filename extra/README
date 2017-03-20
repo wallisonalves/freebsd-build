@@ -1,0 +1,10 @@
+README,v 1.2 Thursday, January 13 2011 07:36:36 PM freebsd
+
+This directory contains files and subdirectories related to the
+plugins'set.  Available plugins and a brief description of each
+follows.
+
+adduser			Add the user "freebsd" to the LiveCD (username can be
+				set using the FREEBSD_ADDUSER variable
+
+pf				Create basic PF rulesets at bootime
